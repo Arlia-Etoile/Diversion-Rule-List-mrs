@@ -60,6 +60,7 @@
 | `iCloud_Classical` | `YAML` | https://r.arlia.cn.mt/mrs/iCloud/iCloud_Classical.yaml |
 | `iCloudCN` | `MRS` | https://r.arlia.cn.mt/mrs/iCloudCN/iCloudCN.mrs |
 | `iOS_Updates` | `MRS` | https://r.arlia.cn.mt/mrs/iOS_Updates/iOS_Updates.mrs |
+| `pDNSleak` | `MRS` | https://r.arlia.cn.mt/mrs/pDNSleak/pDNSleak.mrs |
 
 ## 📁 LSR Rules
 
@@ -93,6 +94,7 @@
 | `iCloud` | `LSR` | https://r.arlia.cn.mt/lsr/iCloud/iCloud.lsr |
 | `iCloudCN` | `LSR` | https://r.arlia.cn.mt/lsr/iCloudCN/iCloudCN.lsr |
 | `iOS_Updates` | `LSR` | https://r.arlia.cn.mt/lsr/iOS_Updates/iOS_Updates.lsr |
+| `pDNSleak` | `LSR` | https://r.arlia.cn.mt/lsr/pDNSleak/pDNSleak.lsr |
 
 ## 📁 YAML Rules
 
@@ -126,4 +128,5 @@
 | `iCloud` | `YAML` | https://r.arlia.cn.mt/yaml/iCloud/iCloud.yaml |
 | `iCloudCN` | `YAML` | https://r.arlia.cn.mt/yaml/iCloudCN/iCloudCN.yaml |
 | `iOS_Updates` | `YAML` | https://r.arlia.cn.mt/yaml/iOS_Updates/iOS_Updates.yaml |
+| `pDNSleak` | `YAML` | https://r.arlia.cn.mt/yaml/pDNSleak/pDNSleak.yaml |
 
