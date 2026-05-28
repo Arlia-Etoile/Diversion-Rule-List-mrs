@@ -391,7 +391,6 @@ tasks:
     type: "domain"
     src: 
       - "https://rule.kelee.one/Clash/Direct.yaml"
-      - "https://kelee.one/Tool/Clash/Rule/ChinaDownloadCDN.yaml"
       - "https://rule.kelee.one/Clash/WeChat.yaml"
       - "https://rule.kelee.one/Clash/XiaoHongShu.yaml"
       - "https://raw.githubusercontent.com/Arlia-Etoile/Diversion-Rule-List/refs/heads/legacy/yaml/JailbreakRepoCN.yaml"
@@ -444,7 +443,6 @@ tasks:
     type: "ipcidr"
     src:
       - "https://rule.kelee.one/Clash/Direct.yaml"
-      - "https://kelee.one/Tool/Clash/Rule/ChinaDownloadCDN.yaml"
       - "https://rule.kelee.one/Clash/WeChat.yaml"
       - "https://raw.githubusercontent.com/Arlia-Etoile/Diversion-Rule-List/refs/heads/legacy/yaml/JailbreakRepoCN.yaml"
   
