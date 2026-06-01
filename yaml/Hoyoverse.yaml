@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,hoyo.link
   - IP-CIDR,8.211.166.250/32
+  - IP-CIDR,8.221.148.27/32
