@@ -28,6 +28,7 @@
 | `Direct_Classical` | `YAML` | https://r.arlia.cn.mt/mrs/Direct/Direct_Classical.yaml |
 | `GamePF` | `MRS` | https://r.arlia.cn.mt/mrs/GamePF/GamePF.mrs |
 | `GamePF_Classical` | `YAML` | https://r.arlia.cn.mt/mrs/GamePF/GamePF_Classical.yaml |
+| `Hoyoverse-IP` | `MRS` | https://r.arlia.cn.mt/mrs/Hoyoverse/Hoyoverse-IP.mrs |
 | `Hoyoverse` | `MRS` | https://r.arlia.cn.mt/mrs/Hoyoverse/Hoyoverse.mrs |
 | `Microsoft` | `MRS` | https://r.arlia.cn.mt/mrs/Microsoft/Microsoft.mrs |
 | `Microsoft_Classical` | `YAML` | https://r.arlia.cn.mt/mrs/Microsoft/Microsoft_Classical.yaml |
