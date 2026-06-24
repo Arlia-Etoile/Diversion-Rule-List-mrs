@@ -234,7 +234,6 @@ httpdnsmultiapi.meituan.com
 safebrowsing.googleapis.com
 +.brightinitiative.com
 +.google-analytics.com
-+.googletagmanager.com
 +.httpdns.aliyuncs.com
 serveraddr.service.kugou.com
 +.adtech.redventures.io
