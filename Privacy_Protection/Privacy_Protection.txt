@@ -252,7 +252,7 @@ httpdns.platform.dbankcloud.com
 +.resolver.gslb.mi-idc.com
 httpdns-euex-push.heytapmobile.com
 +.telemetry-coverage.mozilla.org
-7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
+7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 httpdns-browser.platform.dbankcloud.cn
 +.incoming-telemetry.thunderbird.net
 +.classify-client.services.mozilla.com
