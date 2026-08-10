@@ -3,7 +3,6 @@ wc.51.la
 sdk.51.la
 c.bing.com
 dns.jd.com
-ntp.api.bz
 dns.m.sm.cn
 +.data
 c.clarity.ms
@@ -14,6 +13,7 @@ o.clarity.ms
 track.58.com
 dns.iqiyi.com
 doh.iqiyi.com
++.api.bz
 +.bgp.co
 dns.wechat.com
 dns2.q2cdn.com
